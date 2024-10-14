@@ -8,7 +8,7 @@
 
 > [**Работа с файлами**](https://github.com/ILeZzoV/MyGitCrib/blob/main/Lists/File.md)
 
-> [**Работа с коммитами**](https://github.com/ILeZzoV/MyGitCrib/blob/main/Lists/Setting.md)
+> [**Работа с коммитами**](https://github.com/ILeZzoV/MyGitCrib/blob/main/Lists/Commit.md)
 
 > [**Логирование**](https://github.com/ILeZzoV/MyGitCrib/blob/main/Lists/Log.md)
 
@@ -18,7 +18,7 @@
 
 > [**Статусы файлов**](https://github.com/ILeZzoV/MyGitCrib/blob/main/Lists/Status.md)
 
-> [**Правильные названия**](https://github.com/ILeZzoV/MyGitCrib/blob/main/Lists/Setting.md)
+> [**Правильные названия**](https://github.com/ILeZzoV/MyGitCrib/blob/main/Lists/Name.md)
 
 
 
