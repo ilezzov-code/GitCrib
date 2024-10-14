@@ -34,4 +34,4 @@ Conventional Commits предлагает такой формат коммита
 * feature — новая функциональность
 * bugfix — исправление ошибки
 
-> [**Вернуться назад**](https://github.com/ILeZzoV/MyGitCrib/)
+> [**Вернуться назад**](https://github.com/ilezzov-code/GitCrib/)

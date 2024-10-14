@@ -19,4 +19,4 @@ $ git restore --staged <file>
 $ git restore <file>
 ```
 
-> [**Вернуться назад**](https://github.com/ILeZzoV/MyGitCrib/)
+> [**Вернуться назад**](https://github.com/ilezzov-code/GitCrib/)

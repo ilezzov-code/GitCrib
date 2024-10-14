@@ -43,4 +43,4 @@ $ git push -u origin main/master
 $ git clone <ssh>
 ```
 
-> [**Вернуться назад**](https://github.com/ILeZzoV/MyGitCrib/)
+> [**Вернуться назад**](https://github.com/ilezzov-code/GitCrib/)

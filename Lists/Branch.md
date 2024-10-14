@@ -34,4 +34,4 @@ $ git diff <ветка1> <ветка2>
 $ git diff --oneline 
 ```
 
-> [**Вернуться назад**](https://github.com/ILeZzoV/MyGitCrib/)
+> [**Вернуться назад**](https://github.com/ilezzov-code/GitCrib/)

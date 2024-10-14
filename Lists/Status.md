@@ -9,4 +9,4 @@
 |tracked|отслеживаемый|—|
 |modified|измененный|—|
 
-> [**Вернуться назад**](https://github.com/ILeZzoV/MyGitCrib/)
+> [**Вернуться назад**](https://github.com/ilezzov-code/GitCrib/)

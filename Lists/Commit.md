@@ -24,4 +24,4 @@ $ git diff --staged #Учитывать файлы в staged
 $ git diff <hash> <hash> #Сравнить два коммита
 ```
 
-> [**Вернуться назад**](https://github.com/ILeZzoV/MyGitCrib/)
+> [**Вернуться назад**](https://github.com/ilezzov-code/GitCrib/)
