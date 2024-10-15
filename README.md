@@ -14,11 +14,14 @@
 
 > [**Работа с ветками**](https://github.com/ilezzov-code/GitCrib/blob/main/Lists/Branch.md)
 
+> [**Pull Request**](https://github.com/ilezzov-code/GitCrib/blob/main/Lists/PullRequest.md)
+
 > [**Игнорировани файлов**](https://github.com/ilezzov-code/GitCrib/blob/main/Lists/Ignoring.md)
 
 > [**Статусы файлов**](https://github.com/ilezzov-code/GitCrib/blob/main/Lists/Status.md)
 
 > [**Правильные названия**](https://github.com/ilezzov-code/GitCrib/blob/main/Lists/Name.md)
+
 
 
 
